@@ -1,3 +1,4 @@
+##把原项目修改使其支持python3
 # Darknet2Caffe
 DarkNet下训练的yolo的`.cfg`文件和`.weights`文件转换为Caffe的`.prototxt`文件和`.caffemodel`文件
 
